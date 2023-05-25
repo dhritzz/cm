@@ -58,9 +58,3 @@ python cm.py
 ## Note:
 * This tool is only for Educational Purpose
 * dhritzz. will not be responsible for any Misuse
-
-
-### Tool ScreenShots :
-![Link-X Screenshot]()
-![Link-X Screenshot]()
-![Link-X Screenshot]()
